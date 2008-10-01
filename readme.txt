@@ -31,3 +31,4 @@ Just contact me at [my blog](http://vanutsteen.nl "My blog") or email me (leon@t
 1. The widget in action with the default theme
 2. Configuration options in the backend for the widget
 3. Widget with black theme and custom title
+4. Dr. Nic's github badge: instant coolness
