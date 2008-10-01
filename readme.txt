@@ -8,9 +8,9 @@ Stable tag: trunk
 It's a simple widget that shows your [github](http://www.github.com) projects. It uses the javascript from [Dr. Nic](http://drnicwilliams.com/)
 
 == Description ==
-It's a simple widget that lists your projects on [github](http://www.github.com). It's got several configurable options such as username, theme, title et cetera.
+It's a simple widget that lists your projects on [github](http://www.github.com). It's got several configurable options such as username, theme, title et cetera. It tries 
+to guess your username with the admin account of your wordpress instalallation. If it's wrong you can manually change that.
 The plugin makes use of the widget api, so it should integrate with your theme without any problems.
-
 
 == Installation ==
 
