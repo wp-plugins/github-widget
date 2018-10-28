@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Github widget
-Description: Shows your github projects in a window
+Plugin Name: GitHub widget
+Description: Shows your GitHub projects in a window
 Author: Leon Bogaert, leon@tim-online.nl
 Version: 0.0.1
 Author URI: http://www.vanutsteen.nl
